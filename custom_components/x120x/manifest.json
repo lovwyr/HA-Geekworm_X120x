@@ -1,0 +1,12 @@
+{
+  "domain": "x120x",
+  "name": "Integration blueprint",
+  "codeowners": [
+    "@lovwyr"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/lovwyr/HA-Geekworm_X120x",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/lovwyr/HA-Geekworm_X120x/issues",
+  "version": "0.0.0"
+}
